@@ -6,7 +6,7 @@
 Visitar Empresas  oferecer e analisar as necessidades através de consultoria em servidores para 
 troca compra ou upgrade no dispositivo seja fisico ou virtual.
 
-Nome dos mebros da equipe:
+*Nome dos mebros da equipe:
 
 
 
