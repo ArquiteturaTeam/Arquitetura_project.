@@ -12,7 +12,7 @@ Nome dos mebros da equipe:
 
 
 
-*Aqui link para mapa mental
+*Link para mapa mental
 
 *Link para o podcast
 
